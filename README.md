@@ -1,6 +1,6 @@
 # solar-challenge-week0
 
-# 🌞 Solar Challenge — Week 0
+# Solar Challenge — Week 0
 
 This repository contains the setup for **Week 0** of the Solar Challenge.  
 It includes:
@@ -10,7 +10,7 @@ It includes:
 
 ---
 
-## 📦 Project Setup
+## Project Setup
 
 Follow the steps below to set up this project locally.
 
@@ -29,7 +29,7 @@ Follow the steps below to set up this project locally.
 
     pip install -r requirements.txt
 
-# 🔍 EDA: Sierra Leone Solar Data
+# EDA: Sierra Leone Solar Data
 
 This project includes exploratory data analysis of solar energy and environmental variables in Sierra Leone.
 
